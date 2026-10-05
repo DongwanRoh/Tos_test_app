@@ -1,0 +1,23 @@
+[
+  {
+    "id": "user_1791127638625_uibc5",
+    "email": "pdwroh@gmail.com",
+    "username": "토마",
+    "passwordHash": "$2b$10$qu1aIRP1d5lou7OAhBM.7.xjQ.pq2lEwDOW.kEwYY5lNonDUBUldC",
+    "createdAt": "2026-10-04T15:27:18.625Z"
+  },
+  {
+    "id": "user_1791128164703_izt0u",
+    "email": "algo_tester_1791128164607@test.com",
+    "username": "AlgoTester",
+    "passwordHash": "$2b$10$H2vj8SRObSShQ9M.NGocOuX/EilAvwd1ky7.eBp6GcBu.hjN2P.Hy",
+    "createdAt": "2026-10-04T15:36:04.703Z"
+  },
+  {
+    "id": "user_1791129808730_ykeap",
+    "email": "algo_tester_1791129808636@test.com",
+    "username": "AlgoTester",
+    "passwordHash": "$2b$10$Bu7poOawPaT1Dw3gpt.oD.w3raPCHOeAnMF.8YgHubKQNHthAy.Wy",
+    "createdAt": "2026-10-04T16:03:28.730Z"
+  }
+]

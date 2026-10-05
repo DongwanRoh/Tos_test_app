@@ -1,0 +1,1360 @@
+{
+  "user_1791127638625_uibc5": {
+    "records": {
+      "9": {
+        "sentenceId": 9,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:29:43.625Z",
+        "status": "review"
+      },
+      "14": {
+        "sentenceId": 14,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:33:40.959Z",
+        "status": "review"
+      },
+      "21": {
+        "sentenceId": 21,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:33:29.066Z",
+        "status": "learning"
+      },
+      "27": {
+        "sentenceId": 27,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:29:31.954Z",
+        "status": "review"
+      },
+      "28": {
+        "sentenceId": 28,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:27:45.179Z",
+        "status": "learning"
+      },
+      "42": {
+        "sentenceId": 42,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:33:21.355Z",
+        "status": "learning"
+      },
+      "52": {
+        "sentenceId": 52,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:31:28.149Z",
+        "status": "review"
+      },
+      "56": {
+        "sentenceId": 56,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:32:10.535Z",
+        "status": "review"
+      },
+      "67": {
+        "sentenceId": 67,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:31:06.142Z",
+        "status": "review"
+      },
+      "70": {
+        "sentenceId": 70,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:30:36.976Z",
+        "status": "review"
+      },
+      "72": {
+        "sentenceId": 72,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:29:21.733Z",
+        "status": "review"
+      },
+      "76": {
+        "sentenceId": 76,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:29:05.962Z",
+        "status": "review"
+      },
+      "92": {
+        "sentenceId": 92,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:33:07.306Z",
+        "status": "review"
+      },
+      "99": {
+        "sentenceId": 99,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:32:53.208Z",
+        "status": "review"
+      },
+      "108": {
+        "sentenceId": 108,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:31:43.394Z",
+        "status": "review"
+      },
+      "114": {
+        "sentenceId": 114,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:30:58.427Z",
+        "status": "review"
+      },
+      "117": {
+        "sentenceId": 117,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:30:14.898Z",
+        "status": "review"
+      },
+      "127": {
+        "sentenceId": 127,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:32:25.307Z",
+        "status": "review"
+      },
+      "130": {
+        "sentenceId": 130,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:32:02.695Z",
+        "status": "review"
+      },
+      "134": {
+        "sentenceId": 134,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:32:15.337Z",
+        "status": "review"
+      },
+      "136": {
+        "sentenceId": 136,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:32:41.407Z",
+        "status": "review"
+      },
+      "173": {
+        "sentenceId": 173,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:28:01.489Z",
+        "status": "review"
+      }
+    },
+    "streak": 1,
+    "lastStudyDate": "2026-10-04"
+  },
+  "user_1791128164703_izt0u": {
+    "records": {
+      "1": {
+        "sentenceId": 1,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:04.782Z",
+        "status": "review"
+      },
+      "2": {
+        "sentenceId": 2,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:04.812Z",
+        "status": "review"
+      },
+      "3": {
+        "sentenceId": 3,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:04.843Z",
+        "status": "review"
+      },
+      "4": {
+        "sentenceId": 4,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:04.873Z",
+        "status": "review"
+      },
+      "5": {
+        "sentenceId": 5,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:04.891Z",
+        "status": "review"
+      },
+      "6": {
+        "sentenceId": 6,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:04.920Z",
+        "status": "review"
+      },
+      "7": {
+        "sentenceId": 7,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:04.950Z",
+        "status": "review"
+      },
+      "8": {
+        "sentenceId": 8,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:04.980Z",
+        "status": "review"
+      },
+      "9": {
+        "sentenceId": 9,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.011Z",
+        "status": "review"
+      },
+      "10": {
+        "sentenceId": 10,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.041Z",
+        "status": "review"
+      },
+      "11": {
+        "sentenceId": 11,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.059Z",
+        "status": "review"
+      },
+      "12": {
+        "sentenceId": 12,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.087Z",
+        "status": "review"
+      },
+      "13": {
+        "sentenceId": 13,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.118Z",
+        "status": "review"
+      },
+      "14": {
+        "sentenceId": 14,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.149Z",
+        "status": "review"
+      },
+      "15": {
+        "sentenceId": 15,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.179Z",
+        "status": "review"
+      },
+      "16": {
+        "sentenceId": 16,
+        "attempts": 3,
+        "correct": 2,
+        "incorrect": 1,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:46:28.287Z",
+        "status": "mastered"
+      },
+      "17": {
+        "sentenceId": 17,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.241Z",
+        "status": "review"
+      },
+      "18": {
+        "sentenceId": 18,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.271Z",
+        "status": "review"
+      },
+      "19": {
+        "sentenceId": 19,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.302Z",
+        "status": "review"
+      },
+      "20": {
+        "sentenceId": 20,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.332Z",
+        "status": "review"
+      },
+      "21": {
+        "sentenceId": 21,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.348Z",
+        "status": "learning"
+      },
+      "22": {
+        "sentenceId": 22,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.363Z",
+        "status": "learning"
+      },
+      "23": {
+        "sentenceId": 23,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.378Z",
+        "status": "learning"
+      },
+      "24": {
+        "sentenceId": 24,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.393Z",
+        "status": "learning"
+      },
+      "25": {
+        "sentenceId": 25,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.409Z",
+        "status": "learning"
+      },
+      "26": {
+        "sentenceId": 26,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.424Z",
+        "status": "learning"
+      },
+      "27": {
+        "sentenceId": 27,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.439Z",
+        "status": "learning"
+      },
+      "28": {
+        "sentenceId": 28,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.455Z",
+        "status": "learning"
+      },
+      "29": {
+        "sentenceId": 29,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.470Z",
+        "status": "learning"
+      },
+      "30": {
+        "sentenceId": 30,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.485Z",
+        "status": "learning"
+      },
+      "31": {
+        "sentenceId": 31,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.501Z",
+        "status": "mastered"
+      },
+      "32": {
+        "sentenceId": 32,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.531Z",
+        "status": "mastered"
+      },
+      "33": {
+        "sentenceId": 33,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.562Z",
+        "status": "mastered"
+      },
+      "34": {
+        "sentenceId": 34,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.593Z",
+        "status": "mastered"
+      },
+      "35": {
+        "sentenceId": 35,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.624Z",
+        "status": "mastered"
+      },
+      "36": {
+        "sentenceId": 36,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.655Z",
+        "status": "mastered"
+      },
+      "37": {
+        "sentenceId": 37,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.685Z",
+        "status": "mastered"
+      },
+      "38": {
+        "sentenceId": 38,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.716Z",
+        "status": "mastered"
+      },
+      "39": {
+        "sentenceId": 39,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.746Z",
+        "status": "mastered"
+      },
+      "40": {
+        "sentenceId": 40,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:36:05.765Z",
+        "status": "mastered"
+      },
+      "41": {
+        "sentenceId": 41,
+        "attempts": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": null,
+        "status": "learning"
+      },
+      "42": {
+        "sentenceId": 42,
+        "attempts": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": null,
+        "status": "learning"
+      },
+      "43": {
+        "sentenceId": 43,
+        "attempts": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": null,
+        "status": "learning"
+      },
+      "44": {
+        "sentenceId": 44,
+        "attempts": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": null,
+        "status": "learning"
+      },
+      "45": {
+        "sentenceId": 45,
+        "attempts": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": null,
+        "status": "learning"
+      },
+      "46": {
+        "sentenceId": 46,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": "2026-10-04T15:39:02.210Z",
+        "status": "review"
+      },
+      "47": {
+        "sentenceId": 47,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": "2026-10-04T15:36:05.885Z",
+        "status": "review"
+      },
+      "48": {
+        "sentenceId": 48,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": "2026-10-04T15:36:05.916Z",
+        "status": "review"
+      },
+      "49": {
+        "sentenceId": 49,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": "2026-10-04T15:40:35.964Z",
+        "status": "review"
+      },
+      "50": {
+        "sentenceId": 50,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": "2026-10-04T15:36:05.977Z",
+        "status": "review"
+      },
+      "155": {
+        "sentenceId": 155,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:41:09.117Z",
+        "status": "review"
+      },
+      "187": {
+        "sentenceId": 187,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:41:54.677Z",
+        "status": "learning"
+      },
+      "244": {
+        "sentenceId": 244,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:45:41.004Z",
+        "status": "learning"
+      },
+      "245": {
+        "sentenceId": 245,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:43:37.581Z",
+        "status": "learning"
+      },
+      "252": {
+        "sentenceId": 252,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:39:36.464Z",
+        "status": "review"
+      },
+      "256": {
+        "sentenceId": 256,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:43:09.191Z",
+        "status": "learning"
+      },
+      "271": {
+        "sentenceId": 271,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:48:13.009Z",
+        "status": "learning"
+      },
+      "286": {
+        "sentenceId": 286,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:40:04.710Z",
+        "status": "review"
+      },
+      "288": {
+        "sentenceId": 288,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:47:12.638Z",
+        "status": "learning"
+      },
+      "294": {
+        "sentenceId": 294,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:45:00.492Z",
+        "status": "learning"
+      },
+      "306": {
+        "sentenceId": 306,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:42:34.237Z",
+        "status": "learning"
+      },
+      "333": {
+        "sentenceId": 333,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T15:44:10.796Z",
+        "status": "learning"
+      }
+    },
+    "streak": 1,
+    "lastStudyDate": "2026-10-04"
+  },
+  "user_1791129808730_ykeap": {
+    "records": {
+      "1": {
+        "sentenceId": 1,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:28.814Z",
+        "status": "review"
+      },
+      "2": {
+        "sentenceId": 2,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:28.844Z",
+        "status": "review"
+      },
+      "3": {
+        "sentenceId": 3,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:28.859Z",
+        "status": "review"
+      },
+      "4": {
+        "sentenceId": 4,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:28.890Z",
+        "status": "review"
+      },
+      "5": {
+        "sentenceId": 5,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:28.921Z",
+        "status": "review"
+      },
+      "6": {
+        "sentenceId": 6,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:28.951Z",
+        "status": "review"
+      },
+      "7": {
+        "sentenceId": 7,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:28.982Z",
+        "status": "review"
+      },
+      "8": {
+        "sentenceId": 8,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.012Z",
+        "status": "review"
+      },
+      "9": {
+        "sentenceId": 9,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.043Z",
+        "status": "review"
+      },
+      "10": {
+        "sentenceId": 10,
+        "attempts": 2,
+        "correct": 0,
+        "incorrect": 2,
+        "consecutiveCorrect": 0,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.059Z",
+        "status": "review"
+      },
+      "11": {
+        "sentenceId": 11,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.089Z",
+        "status": "review"
+      },
+      "12": {
+        "sentenceId": 12,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.120Z",
+        "status": "review"
+      },
+      "13": {
+        "sentenceId": 13,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.150Z",
+        "status": "review"
+      },
+      "14": {
+        "sentenceId": 14,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.181Z",
+        "status": "review"
+      },
+      "15": {
+        "sentenceId": 15,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.212Z",
+        "status": "review"
+      },
+      "16": {
+        "sentenceId": 16,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.243Z",
+        "status": "review"
+      },
+      "17": {
+        "sentenceId": 17,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.274Z",
+        "status": "review"
+      },
+      "18": {
+        "sentenceId": 18,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.305Z",
+        "status": "review"
+      },
+      "19": {
+        "sentenceId": 19,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.336Z",
+        "status": "review"
+      },
+      "20": {
+        "sentenceId": 20,
+        "attempts": 2,
+        "correct": 1,
+        "incorrect": 1,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.367Z",
+        "status": "review"
+      },
+      "21": {
+        "sentenceId": 21,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.382Z",
+        "status": "learning"
+      },
+      "22": {
+        "sentenceId": 22,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.398Z",
+        "status": "learning"
+      },
+      "23": {
+        "sentenceId": 23,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.413Z",
+        "status": "learning"
+      },
+      "24": {
+        "sentenceId": 24,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.428Z",
+        "status": "learning"
+      },
+      "25": {
+        "sentenceId": 25,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.443Z",
+        "status": "learning"
+      },
+      "26": {
+        "sentenceId": 26,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.459Z",
+        "status": "learning"
+      },
+      "27": {
+        "sentenceId": 27,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.475Z",
+        "status": "learning"
+      },
+      "28": {
+        "sentenceId": 28,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.490Z",
+        "status": "learning"
+      },
+      "29": {
+        "sentenceId": 29,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.506Z",
+        "status": "learning"
+      },
+      "30": {
+        "sentenceId": 30,
+        "attempts": 1,
+        "correct": 1,
+        "incorrect": 0,
+        "consecutiveCorrect": 1,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.521Z",
+        "status": "learning"
+      },
+      "31": {
+        "sentenceId": 31,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.552Z",
+        "status": "mastered"
+      },
+      "32": {
+        "sentenceId": 32,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.582Z",
+        "status": "mastered"
+      },
+      "33": {
+        "sentenceId": 33,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.613Z",
+        "status": "mastered"
+      },
+      "34": {
+        "sentenceId": 34,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.644Z",
+        "status": "mastered"
+      },
+      "35": {
+        "sentenceId": 35,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.675Z",
+        "status": "mastered"
+      },
+      "36": {
+        "sentenceId": 36,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.705Z",
+        "status": "mastered"
+      },
+      "37": {
+        "sentenceId": 37,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.736Z",
+        "status": "mastered"
+      },
+      "38": {
+        "sentenceId": 38,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.766Z",
+        "status": "mastered"
+      },
+      "39": {
+        "sentenceId": 39,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.797Z",
+        "status": "mastered"
+      },
+      "40": {
+        "sentenceId": 40,
+        "attempts": 2,
+        "correct": 2,
+        "incorrect": 0,
+        "consecutiveCorrect": 2,
+        "isBookmarked": false,
+        "lastReviewedAt": "2026-10-04T16:03:29.816Z",
+        "status": "mastered"
+      },
+      "41": {
+        "sentenceId": 41,
+        "attempts": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": null,
+        "status": "learning"
+      },
+      "42": {
+        "sentenceId": 42,
+        "attempts": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": null,
+        "status": "learning"
+      },
+      "43": {
+        "sentenceId": 43,
+        "attempts": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": null,
+        "status": "learning"
+      },
+      "44": {
+        "sentenceId": 44,
+        "attempts": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": null,
+        "status": "learning"
+      },
+      "45": {
+        "sentenceId": 45,
+        "attempts": 0,
+        "correct": 0,
+        "incorrect": 0,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": null,
+        "status": "learning"
+      },
+      "46": {
+        "sentenceId": 46,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": "2026-10-04T16:03:29.904Z",
+        "status": "review"
+      },
+      "47": {
+        "sentenceId": 47,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": "2026-10-04T16:03:29.935Z",
+        "status": "review"
+      },
+      "48": {
+        "sentenceId": 48,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": "2026-10-04T16:03:29.966Z",
+        "status": "review"
+      },
+      "49": {
+        "sentenceId": 49,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": "2026-10-04T16:03:29.996Z",
+        "status": "review"
+      },
+      "50": {
+        "sentenceId": 50,
+        "attempts": 1,
+        "correct": 0,
+        "incorrect": 1,
+        "consecutiveCorrect": 0,
+        "isBookmarked": true,
+        "lastReviewedAt": "2026-10-04T16:03:30.027Z",
+        "status": "review"
+      }
+    },
+    "streak": 1,
+    "lastStudyDate": "2026-10-04"
+  }
+}
