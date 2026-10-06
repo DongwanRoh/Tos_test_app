@@ -187,11 +187,17 @@ input, select {
 /* Main Content Area */
 .app-main {
   flex: 1;
-  padding: 16px 20px 16px;
+  padding: 16px 20px 86px; /* Added bottom padding to accommodate absolute nav */
   display: flex;
   flex-direction: column;
+  align-items: center; /* Center horizontally */
   overflow-y: auto;
   scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+.app-main > * {
+  width: 100%;
+  max-width: 460px;
 }
 .app-main::-webkit-scrollbar {
   display: none;
@@ -199,14 +205,20 @@ input, select {
 
 /* Bottom Navigation */
 .app-nav {
-  flex-shrink: 0;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
   background: rgba(10, 15, 26, 0.95);
   backdrop-filter: blur(16px);
   border-top: 1px solid var(--border-subtle);
   display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
-  padding: 8px 12px;
+  padding: 10px 12px 14px; /* Slightly more padding at bottom for easier tap */
   z-index: 50;
   border-bottom-left-radius: inherit;
   border-bottom-right-radius: inherit;
@@ -216,16 +228,18 @@ input, select {
 }
 
 .nav-item {
-  flex: 0 0 76px;
+  flex: 0 0 80px; /* Slightly wider to give text room */
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 4px;
-  padding: 6px 0;
+  justify-content: center;
+  gap: 6px;
+  padding: 8px 0;
   color: var(--text-faint);
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   font-weight: 600;
   border-radius: var(--radius-sm);
+  white-space: nowrap;
 }
 
 .nav-item.active {
@@ -313,6 +327,7 @@ input, select {
   display: flex;
   flex-direction: column;
   perspective: 1000px;
+  margin: auto 0; /* Vertically center the flashcard */
 }
 
 .flashcard {

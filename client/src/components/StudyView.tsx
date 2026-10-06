@@ -23,21 +23,41 @@ export const StudyView: React.FC<StudyViewProps> = ({
 }) => {
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [selectedPart, setSelectedPart] = useState<number | 'all'>('all');
+  const [selectedStatus, setSelectedStatus] = useState<'all' | 'wrong'>('all');
+  const [shuffledIds, setShuffledIds] = useState<number[]>([]);
   const [currentIndex, setCurrentIndex] = useState<number>(0);
   const [isRevealed, setIsRevealed] = useState<boolean>(false);
   const [isListening, setIsListening] = useState<boolean>(false);
   const [spokenText, setSpokenText] = useState<string>('');
   const [timeLeft, setTimeLeft] = useState<number>(settings.timerDuration);
 
-  // Filter sentences by category & part
+  // Filter sentences by category & part & status
   const filteredSentences = useMemo(() => {
-    return sentences.filter((s) => {
+    let result = sentences.filter((s) => {
       const matchCat = selectedCategory === 'all' || s.category === selectedCategory;
       const matchPart =
         selectedPart === 'all' || (s.parts && s.parts.includes(selectedPart as number));
-      return matchCat && matchPart;
+      
+      let matchStatus = true;
+      if (selectedStatus === 'wrong') {
+        const rec = records[s.id];
+        matchStatus = !!rec && (rec.incorrect > 0 || rec.status === 'review');
+      }
+
+      return matchCat && matchPart && matchStatus;
     });
-  }, [sentences, selectedCategory, selectedPart]);
+
+    if (shuffledIds.length > 0) {
+      const indexMap = new Map(shuffledIds.map((id, index) => [id, index]));
+      result.sort((a, b) => {
+        const indexA = indexMap.get(a.id) ?? Infinity;
+        const indexB = indexMap.get(b.id) ?? Infinity;
+        return indexA - indexB;
+      });
+    }
+
+    return result;
+  }, [sentences, selectedCategory, selectedPart, selectedStatus, records, shuffledIds]);
 
   const currentSentence = filteredSentences[currentIndex];
   const currentRecord = currentSentence ? records[currentSentence.id] : null;
@@ -52,7 +72,14 @@ export const StudyView: React.FC<StudyViewProps> = ({
   useEffect(() => {
     setCurrentIndex(0);
     resetCard();
-  }, [selectedCategory, selectedPart, resetCard]);
+  }, [selectedCategory, selectedPart, selectedStatus, resetCard]);
+
+  const handleShuffle = () => {
+    const newOrder = [...sentences].map(s => s.id).sort(() => Math.random() - 0.5);
+    setShuffledIds(newOrder);
+    setCurrentIndex(0);
+    resetCard();
+  };
 
   // Timer Countdown Effect
   useEffect(() => {
@@ -241,6 +268,35 @@ export const StudyView: React.FC<StudyViewProps> = ({
             {cat.label}
           </button>
         ))}
+      </div>
+
+      {/* Status & Action Pills */}
+      <div className="category-scroller" style={{ paddingBottom: '16px' }}>
+        <button
+          className={`cat-pill ${selectedStatus === 'all' ? 'active' : ''}`}
+          onClick={() => setSelectedStatus('all')}
+        >
+          전체 보기
+        </button>
+        <button
+          className={`cat-pill ${selectedStatus === 'wrong' ? 'active' : ''}`}
+          style={{
+            background: selectedStatus === 'wrong' ? 'rgba(244, 63, 94, 0.2)' : undefined,
+            borderColor: selectedStatus === 'wrong' ? '#f43f5e' : undefined,
+            color: selectedStatus === 'wrong' ? '#fda4af' : undefined,
+          }}
+          onClick={() => setSelectedStatus('wrong')}
+        >
+          🔥 틀린 문제만
+        </button>
+        <div style={{ width: '1px', background: 'rgba(255,255,255,0.1)', margin: '0 4px' }} />
+        <button
+          className="cat-pill"
+          onClick={handleShuffle}
+          style={{ background: 'rgba(255,255,255,0.08)', color: '#fff', display: 'flex', alignItems: 'center', gap: 6 }}
+        >
+          🔀 랜덤 셔플
+        </button>
       </div>
 
       {/* Timer Bar */}

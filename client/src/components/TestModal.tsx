@@ -89,14 +89,37 @@ export const TestModal: React.FC<TestModalProps> = ({
         borderRadius: '24px',
         boxShadow: 'var(--shadow-card)',
         marginBottom: '16px',
+        position: 'relative',
       }}
     >
+      {/* Close Button */}
+      <button
+        onClick={onClose}
+        style={{
+          position: 'absolute',
+          top: '16px',
+          right: '16px',
+          background: 'rgba(255,255,255,0.05)',
+          border: 'none',
+          borderRadius: '50%',
+          width: '32px',
+          height: '32px',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          cursor: 'pointer',
+          color: '#94a3b8'
+        }}
+      >
+        <X size={18} />
+      </button>
+
       {/* Modal Title */}
       <div style={{ marginBottom: 18 }}>
           <h2 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#f8fafc', margin: '0 0 6px 0' }}>
             스피킹 실전 테스트
           </h2>
-          <p style={{ fontSize: '0.8rem', color: '#94a3b8', margin: 0 }}>
+          <p style={{ fontSize: '0.8rem', color: '#94a3b8', margin: 0, paddingRight: '24px' }}>
             원하는 조건과 문항 수를 선택하여 테스트를 시작하세요
           </p>
         </div>
