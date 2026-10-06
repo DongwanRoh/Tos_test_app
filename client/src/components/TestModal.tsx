@@ -79,32 +79,20 @@ export const TestModal: React.FC<TestModalProps> = ({
   ];
 
   return (
-    <div className="modal-backdrop" onClick={onClose}>
-      <div
-        className="glass-panel"
-        style={{
-          width: '94%',
-          maxWidth: '520px',
-          maxHeight: '90vh',
-          overflowY: 'auto',
-          padding: '24px',
-          position: 'relative',
-          borderRadius: '24px',
-          boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.7)',
-        }}
-        onClick={(e) => e.stopPropagation()}
-      >
-        {/* Close Button */}
-        <button
-          onClick={onClose}
-          className="icon-btn"
-          style={{ position: 'absolute', right: 18, top: 18 }}
-        >
-          <X size={20} />
-        </button>
-
-        {/* Modal Title */}
-        <div style={{ marginBottom: 18 }}>
+    <div
+      className="glass-panel"
+      style={{
+        width: '100%',
+        display: 'flex',
+        flexDirection: 'column',
+        padding: '24px',
+        borderRadius: '24px',
+        boxShadow: 'var(--shadow-card)',
+        marginBottom: '16px',
+      }}
+    >
+      {/* Modal Title */}
+      <div style={{ marginBottom: 18 }}>
           <h2 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#f8fafc', margin: '0 0 6px 0' }}>
             스피킹 실전 테스트
           </h2>
@@ -338,6 +326,5 @@ export const TestModal: React.FC<TestModalProps> = ({
           {matchingCount > 0 ? `${Math.min(questionCount, matchingCount)}문항 실전 테스트 시작하기` : '출제 가능한 문장이 없습니다'}
         </button>
       </div>
-    </div>
   );
 };

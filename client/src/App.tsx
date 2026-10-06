@@ -29,8 +29,6 @@ export const App: React.FC = () => {
   // Modals & Test State
   const [isAuthOpen, setIsAuthOpen] = useState<boolean>(false);
   const [isSettingsOpen, setIsSettingsOpen] = useState<boolean>(false);
-  const [isTestModalOpen, setIsTestModalOpen] = useState<boolean>(false);
-
   const [testSession, setTestSession] = useState<{
     sentences: Sentence[];
     options: TestOptions;
@@ -114,7 +112,6 @@ export const App: React.FC = () => {
       sentences: sampled,
       options,
     });
-    setIsTestModalOpen(false);
     setTab('test');
   };
 
@@ -183,7 +180,7 @@ export const App: React.FC = () => {
             settings={settings}
             onRecord={handleRecord}
             onBookmark={handleBookmark}
-            onOpenTestModal={() => setIsTestModalOpen(true)}
+            onOpenTestModal={() => setTab('test')}
           />
         )}
 
@@ -198,18 +195,17 @@ export const App: React.FC = () => {
               onRecord={handleRecord}
               onBookmark={handleBookmark}
               onRestartTest={handleRestartTest}
-              onOpenTestModal={() => setIsTestModalOpen(true)}
+              onOpenTestModal={() => setTestSession(null)}
               onExitTest={handleExitTest}
             />
           ) : (
-            <div className="glass-panel" style={{ textAlign: 'center', padding: '50px 20px' }}>
-              <Zap size={40} color="#818cf8" style={{ marginBottom: 12 }} />
-              <h3 style={{ fontSize: '1.2rem', color: '#fff', marginBottom: 6 }}>실전 테스트</h3>
-              <p style={{ color: 'var(--text-muted)', fontSize: '0.88rem', marginBottom: 20 }}>
-                파트/카테고리별 스마트 20문항 무작위 테스트를 진행해보세요.<br/><br/>
-                하단 메뉴의 <strong>테스트</strong> 탭을 다시 누르면 조건을 설정할 수 있습니다.
-              </p>
-            </div>
+            <TestModal
+              isOpen={true}
+              sentences={sentences}
+              records={progress.records || {}}
+              onClose={() => setTab('study')}
+              onStartTest={handleStartTest}
+            />
           )
         )}
 
@@ -259,8 +255,8 @@ export const App: React.FC = () => {
           id="nav-tab-test"
           className={`nav-item ${tab === 'test' ? 'active' : ''}`}
           onClick={() => {
-            if (!testSession) {
-              setIsTestModalOpen(true);
+            if (tab === 'test' && testSession) {
+              setTestSession(null); // Back to setup if clicking test tab while testing
             }
             setTab('test');
           }}
@@ -312,14 +308,6 @@ export const App: React.FC = () => {
         settings={settings}
         onClose={() => setIsSettingsOpen(false)}
         onUpdateSettings={handleUpdateSettings}
-      />
-
-      <TestModal
-        isOpen={isTestModalOpen}
-        sentences={sentences}
-        records={progress.records || {}}
-        onClose={() => setIsTestModalOpen(false)}
-        onStartTest={handleStartTest}
       />
     </div>
   );
