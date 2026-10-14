@@ -4894,5 +4894,3544 @@
     "parts": [
       5
     ]
+  },
+  {
+    "id": 344,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "shopping",
+    "pattern": "get a discount",
+    "korean": "저는 20% 할인을 받았습니다.",
+    "english": "I got a 20% discount.",
+    "keyExpression": "get a discount",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 345,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "shopping",
+    "pattern": "offer a discount",
+    "korean": "그들은 더 큰 할인을 제공해야 합니다.",
+    "english": "They should offer a bigger discount.",
+    "keyExpression": "offer a discount",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 346,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "shopping",
+    "pattern": "membership points",
+    "korean": "저는 적립금을 많이 받았습니다.",
+    "english": "I earned a lot of membership points.",
+    "keyExpression": "membership points",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 347,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "shopping",
+    "pattern": "promotional event",
+    "korean": "그들은 다양한 판촉 행사를 진행했습니다.",
+    "english": "They held various promotional events.",
+    "keyExpression": "promotional events",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 348,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "shopping",
+    "pattern": "shipping service",
+    "korean": "그들은 무료 배송 서비스를 제공합니다.",
+    "english": "They offer free shipping service.",
+    "keyExpression": "shipping service",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 349,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "shopping",
+    "pattern": "local store",
+    "korean": "저는 주로 동네 서점에서 책을 구입합니다.",
+    "english": "I usually buy books at a local bookstore.",
+    "keyExpression": "local bookstore",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 350,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "shopping",
+    "pattern": "exchange A for B",
+    "korean": "저는 그것을 새 제품으로 교환했습니다.",
+    "english": "I exchanged it for a new product.",
+    "keyExpression": "exchange A for B",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 351,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "shopping",
+    "pattern": "get a refund for A",
+    "korean": "저는 그 책을 환불 받았습니다.",
+    "english": "I got a refund for the book.",
+    "keyExpression": "get a refund for",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 352,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "shopping",
+    "pattern": "return A",
+    "korean": "저는 그 티셔츠를 반품했습니다.",
+    "english": "I returned the t-shirt.",
+    "keyExpression": "return",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 353,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "shopping",
+    "pattern": "in one place",
+    "korean": "저는 한 장소에서 쇼핑할 수 있습니다.",
+    "english": "I can shop in one place.",
+    "keyExpression": "in one place",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 354,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "shopping",
+    "pattern": "sold out",
+    "korean": "그 가방은 항상 품절이었습니다.",
+    "english": "The bag was always sold out.",
+    "keyExpression": "sold out",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 355,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "shopping",
+    "pattern": "online advertisement",
+    "korean": "온라인 광고에는 허위 정보가 많습니다.",
+    "english": "There is a lot of false information in online advertisements.",
+    "keyExpression": "online advertisements",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 356,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "housing",
+    "pattern": "countryside",
+    "korean": "시골에서는 의료 서비스를 받기가 어렵습니다.",
+    "english": "It is difficult to get medical services in the countryside.",
+    "keyExpression": "in the countryside",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 357,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "housing",
+    "pattern": "neighbors",
+    "korean": "요즘에는 많은 사람들이 이웃들과 말을 하지 않습니다.",
+    "english": "These days, many people don't talk to their neighbors.",
+    "keyExpression": "neighbors",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 358,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "housing",
+    "pattern": "neighborhood",
+    "korean": "우리 동네에 큰 공원이 있습니다.",
+    "english": "There is a large park in my neighborhood.",
+    "keyExpression": "in my neighborhood",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 359,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "housing",
+    "pattern": "apartment complex",
+    "korean": "그 아파트 단지에는 다양한 편의시설이 있었습니다.",
+    "english": "There were various amenities in the apartment complex.",
+    "keyExpression": "apartment complex",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 360,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "housing",
+    "pattern": "single-family home",
+    "korean": "한국에는 단독주택이 많지 않습니다.",
+    "english": "There are not many single-family houses in Korea.",
+    "keyExpression": "single-family houses",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 361,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "housing",
+    "pattern": "monthly rent",
+    "korean": "월세와 공과금이 너무 비쌌습니다.",
+    "english": "The monthly rent and utility bills were too expensive.",
+    "keyExpression": "monthly rent and utility bills",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 362,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "housing",
+    "pattern": "remodel house",
+    "korean": "저는 집을 리모델링하는 데 많은 돈을 썼습니다.",
+    "english": "I spent a lot of money on remodeling the house.",
+    "keyExpression": "remodeling the house",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 363,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "housing",
+    "pattern": "be close to A",
+    "korean": "저희 집은 사무실에서 가깝습니다.",
+    "english": "My house is close to my office.",
+    "keyExpression": "close to my office",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 364,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "trend",
+    "pattern": "nowadays",
+    "korean": "요즘 많은 사람들이 디지털 지갑을 사용합니다.",
+    "english": "Many people use digital wallets nowadays.",
+    "keyExpression": "nowadays",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 365,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "trend",
+    "pattern": "anymore",
+    "korean": "많은 아이들이 더 이상 밖에서 놀지 않습니다.",
+    "english": "Many children don't play outside anymore.",
+    "keyExpression": "not anymore",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 366,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "trend",
+    "pattern": "used to V",
+    "korean": "저는 수업 시간에 손으로 필기를 하곤 했습니다.",
+    "english": "I used to take notes by hand in class.",
+    "keyExpression": "used to take notes",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 367,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "trend",
+    "pattern": "lose popularity",
+    "korean": "종이 책들이 젊은 사람들 사이에서 인기를 잃고 있습니다.",
+    "english": "Paper books are losing popularity among young people.",
+    "keyExpression": "losing popularity",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 368,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "trend",
+    "pattern": "grow fast",
+    "korean": "전기차 시장이 한국에서 빠르게 성장하고 있습니다.",
+    "english": "The electric car market is growing fast in Korea.",
+    "keyExpression": "growing fast",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 369,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "trend",
+    "pattern": "slow down",
+    "korean": "한국의 출산율이 둔화되고 있습니다.",
+    "english": "The birth rate is slowing down in Korea.",
+    "keyExpression": "slowing down",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 370,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "trend",
+    "pattern": "become trendy",
+    "korean": "집에서 요리하는 것이 다시 유행하고 있습니다.",
+    "english": "Cooking at home is becoming trendy again.",
+    "keyExpression": "becoming trendy",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 371,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "trend",
+    "pattern": "more and more people",
+    "korean": "점점 더 많은 사람들이 자신의 건강에 관심을 가지고 있습니다.",
+    "english": "More and more people are taking an interest in their health.",
+    "keyExpression": "more and more people",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 372,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "trend",
+    "pattern": "instead of A",
+    "korean": "많은 사람들이 패키지여행에 참여하는 대신 자유여행을 합니다.",
+    "english": "Many people travel independently instead of joining package tours.",
+    "keyExpression": "instead of",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 373,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "travel",
+    "pattern": "go on a trip",
+    "korean": "저는 태국으로 여행을 갔습니다.",
+    "english": "I went on a trip to Thailand.",
+    "keyExpression": "go on a trip",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 374,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "travel",
+    "pattern": "go on a package tour",
+    "korean": "저는 중국으로 패키지 여행을 갔습니다.",
+    "english": "I went on a package tour to China.",
+    "keyExpression": "go on a package tour",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 375,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "travel",
+    "pattern": "go on a vacation",
+    "korean": "그는 스페인으로 휴가를 갔습니다.",
+    "english": "He went on a vacation to Spain.",
+    "keyExpression": "go on a vacation",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 376,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "travel",
+    "pattern": "travel abroad",
+    "korean": "저는 일 년에 한 번 정도 해외여행을 합니다.",
+    "english": "I travel abroad about once a year.",
+    "keyExpression": "travel abroad",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 377,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "travel",
+    "pattern": "travel guide book",
+    "korean": "우리는 더 이상 여행 가이드북이 필요하지 않습니다.",
+    "english": "We don't need travel guidebooks anymore.",
+    "keyExpression": "travel guidebooks",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 378,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "travel",
+    "pattern": "get to A",
+    "korean": "저는 목적지에 빨리 도착할 수 있습니다.",
+    "english": "I can get to my destination quickly.",
+    "keyExpression": "get to my destination",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 379,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "travel",
+    "pattern": "get lost",
+    "korean": "저는 자주 길을 잃었습니다.",
+    "english": "I got lost often.",
+    "keyExpression": "get lost",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 380,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "travel",
+    "pattern": "find a way",
+    "korean": "저는 길을 찾기 위해 스마트폰을 사용합니다.",
+    "english": "I use a smartphone to find a way.",
+    "keyExpression": "find a way",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 381,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "travel",
+    "pattern": "view",
+    "korean": "우리는 아름다운 야경을 즐길 수 있습니다.",
+    "english": "We can enjoy a beautiful night view.",
+    "keyExpression": "enjoy a beautiful night view",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 382,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "travel",
+    "pattern": "local",
+    "korean": "저는 많은 현지인들을 만났습니다.",
+    "english": "I met a lot of locals.",
+    "keyExpression": "locals",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 383,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "travel",
+    "pattern": "local food",
+    "korean": "저는 다양한 현지 음식을 즐겼습니다.",
+    "english": "I enjoyed a variety of local foods.",
+    "keyExpression": "variety of local foods",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 384,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "travel",
+    "pattern": "exotic",
+    "korean": "그 도시는 매우 이국적이었습니다.",
+    "english": "The city was very exotic.",
+    "keyExpression": "exotic",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 385,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "environment",
+    "pattern": "environmental pollution",
+    "korean": "저는 환경 오염에 별로 관심이 없었습니다.",
+    "english": "I wasn't very interested in environmental pollution.",
+    "keyExpression": "environmental pollution",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 386,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "environment",
+    "pattern": "energy-efficient",
+    "korean": "그 이후로, 저는 보통 에너지 효율이 좋은 제품을 삽니다.",
+    "english": "Since then, I usually buy energy-efficient products.",
+    "keyExpression": "energy-efficient products",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 387,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "environment",
+    "pattern": "recycle",
+    "korean": "저는 재활용하는 습관을 들일 수 있었습니다.",
+    "english": "I was able to develop a habit of recycling.",
+    "keyExpression": "habit of recycling",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 388,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "environment",
+    "pattern": "protect the environment",
+    "korean": "우리는 환경을 보호하는 법을 배웠습니다.",
+    "english": "We learned how to protect the environment.",
+    "keyExpression": "protect the environment",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 389,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "environment",
+    "pattern": "reduce waste",
+    "korean": "그렇게 함으로써, 우리는 쓰레기를 줄일 수 있습니다.",
+    "english": "By doing so, we can reduce waste.",
+    "keyExpression": "reduce waste",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 390,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "environment",
+    "pattern": "water pollution",
+    "korean": "수질 오염은 요즘 점점 심각한 문제가 되고 있습니다.",
+    "english": "Water pollution is becoming a serious issue nowadays.",
+    "keyExpression": "water pollution",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 391,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "environment",
+    "pattern": "be polluted",
+    "korean": "그 강은 심하게 오염되어 있었습니다.",
+    "english": "The river was heavily polluted.",
+    "keyExpression": "heavily polluted",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 392,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "environment",
+    "pattern": "seriousness",
+    "korean": "그들은 환경오염의 심각성을 깨달을 수 있습니다.",
+    "english": "They can realize the seriousness of environmental pollution.",
+    "keyExpression": "seriousness of environmental pollution",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 393,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "environment",
+    "pattern": "keep A clean",
+    "korean": "우리는 아파트 단지를 깨끗하게 유지할 수 있었습니다.",
+    "english": "We were able to keep our apartment complex clean.",
+    "keyExpression": "keep clean",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 394,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "get fired",
+    "korean": "그는 해고되었습니다.",
+    "english": "He got fired.",
+    "keyExpression": "get fired",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 395,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "go to work",
+    "korean": "저는 주로 지하철로 출근합니다.",
+    "english": "I usually go to work by subway.",
+    "keyExpression": "go to work",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 396,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "make a mistake",
+    "korean": "그는 업무 중에 자주 실수를 했습니다.",
+    "english": "He often made mistakes while working.",
+    "keyExpression": "make mistakes",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 397,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "do a task",
+    "korean": "그는 혼자서 여러 업무를 했습니다.",
+    "english": "He did various tasks alone.",
+    "keyExpression": "do various tasks",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 398,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "intern at A",
+    "korean": "저는 스타트업 회사에서 인턴 근무를 했습니다.",
+    "english": "I interned at a start-up company.",
+    "keyExpression": "intern at",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 399,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "employee benefits",
+    "korean": "대기업에는 다양한 직원 혜택이 있습니다.",
+    "english": "Large companies have various employee benefits.",
+    "keyExpression": "employee benefits",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 400,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "receive a salary",
+    "korean": "그녀는 높은 월급을 받았습니다.",
+    "english": "She received a high salary.",
+    "keyExpression": "receive a high salary",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 401,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "sales increase / decrease",
+    "korean": "매출이 많이 늘었습니다.",
+    "english": "The sales increased a lot.",
+    "keyExpression": "sales increased",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 402,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "go on a business trip",
+    "korean": "저는 자주 출장을 갔습니다.",
+    "english": "I often went on business trips.",
+    "keyExpression": "go on business trips",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 403,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "go on a vacation",
+    "korean": "그는 런던으로 휴가를 갔습니다.",
+    "english": "He went on a vacation to London.",
+    "keyExpression": "go on a vacation",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 404,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "lunch break",
+    "korean": "저는 점심시간에 산책을 합니다.",
+    "english": "I take a walk during lunch break.",
+    "keyExpression": "during lunch break",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 405,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "working hours",
+    "korean": "저의 근무 시간은 매우 길었습니다.",
+    "english": "My working hours were very long.",
+    "keyExpression": "working hours",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 406,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "finish A in time",
+    "korean": "우리는 제 시간에 프로젝트를 마쳤습니다.",
+    "english": "We finished the project in time.",
+    "keyExpression": "finish in time",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 407,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "have a video call",
+    "korean": "저는 매일 아침 화상 통화를 했습니다.",
+    "english": "I had a video call every morning.",
+    "keyExpression": "have a video call",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 408,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "performance evaluation",
+    "korean": "그녀는 훌륭한 인사 평가를 받았습니다.",
+    "english": "She received an excellent performance evaluation.",
+    "keyExpression": "performance evaluation",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 409,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "work",
+    "pattern": "experienced employee",
+    "korean": "우리 회사는 경력직 사원 두 명을 채용했습니다.",
+    "english": "Our company hired two experienced employees.",
+    "keyExpression": "experienced employees",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 410,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "under stress",
+    "korean": "저는 시험 전에 많은 스트레스를 받았습니다.",
+    "english": "I was under a lot of stress before exams.",
+    "keyExpression": "under a lot of stress",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 411,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "be motivated by A",
+    "korean": "그들은 다른 학생들로부터 동기부여를 받을 수 있습니다.",
+    "english": "They can be motivated by other students.",
+    "keyExpression": "motivated by other students",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 412,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "lose interest",
+    "korean": "저는 공부에 흥미를 잃었습니다.",
+    "english": "I lost interest in studying.",
+    "keyExpression": "lost interest",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 413,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "self-control",
+    "korean": "어린 아이들은 자제력이 부족합니다.",
+    "english": "Young children lack self-control.",
+    "keyExpression": "lack self-control",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 414,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "receive feedback",
+    "korean": "저는 수업 중에 피드백을 자주 받았습니다.",
+    "english": "I often received feedback in class.",
+    "keyExpression": "receive feedback",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 415,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "take a class / take a lecture",
+    "korean": "저는 집에서 온라인 수업을 들었습니다.",
+    "english": "I took an online class at home.",
+    "keyExpression": "take an online class",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 416,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "go on a field trip",
+    "korean": "저는 박물관으로 현장 학습을 갔습니다.",
+    "english": "I went on a field trip to a museum.",
+    "keyExpression": "go on a field trip",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 417,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "make friends",
+    "korean": "저는 고등학교 때 많은 친구들을 사귈 수 있었습니다.",
+    "english": "I was able to make many friends in high school.",
+    "keyExpression": "make many friends",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 418,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "get along with A",
+    "korean": "그는 대부분의 학생들과 잘 지냈습니다.",
+    "english": "He got along well with most of the students.",
+    "keyExpression": "get along well with",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 419,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "learn how to V",
+    "korean": "저는 다른 학생들과 협력하는 방법을 배웠습니다.",
+    "english": "I learned how to cooperate with other students.",
+    "keyExpression": "cooperate with other students",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 420,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "learn the importance of A",
+    "korean": "학생들은 환경의 중요성을 배울 필요가 있습니다.",
+    "english": "Students need to learn the importance of the environment.",
+    "keyExpression": "learn the importance of",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 421,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "improve skills",
+    "korean": "그녀는 수학 실력을 빠르게 향상시켰습니다.",
+    "english": "She improved her math skills quickly.",
+    "keyExpression": "improve skills",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 422,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "get an education",
+    "korean": "학생들은 더 나은 교육을 받을 수 있습니다.",
+    "english": "Students can get a better education.",
+    "keyExpression": "get a better education",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 423,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "develop a habit",
+    "korean": "그들은 좋은 공부 습관들을 기를 수 있습니다.",
+    "english": "They can develop good study habits.",
+    "keyExpression": "develop good study habits",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 424,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "find an aptitude",
+    "korean": "학생들이 자신의 적성을 발견할 수 있습니다.",
+    "english": "Students can find their aptitude.",
+    "keyExpression": "find their aptitude",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 425,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "pass the exam",
+    "korean": "그는 쉽게 시험에 합격했습니다.",
+    "english": "He passed the exam easily.",
+    "keyExpression": "pass the exam",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 426,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "school uniform",
+    "korean": "저는 고등학교 때 교복을 입었습니다.",
+    "english": "I wore a school uniform in high school.",
+    "keyExpression": "school uniform",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 427,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "cram school",
+    "korean": "저는 매일 입시 학원에서 공부했습니다.",
+    "english": "I studied at a cram school every day.",
+    "keyExpression": "cram school",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 428,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "take notes",
+    "korean": "저는 아이패드에 필기를 했습니다.",
+    "english": "I took notes on my iPad.",
+    "keyExpression": "take notes",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 429,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "do volunteer work",
+    "korean": "저는 일주일에 한 번 봉사활동을 했습니다.",
+    "english": "I did volunteer work once a week.",
+    "keyExpression": "do volunteer work",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 430,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "get into a university",
+    "korean": "저는 좋은 대학에 들어갈 수 있었습니다.",
+    "english": "I could get into a good university.",
+    "keyExpression": "get into a university",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 431,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "major in A",
+    "korean": "그녀는 회계학을 전공했습니다.",
+    "english": "She majored in accounting.",
+    "keyExpression": "major in",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 432,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "commute to A",
+    "korean": "저는 학교에 버스로 통학했습니다.",
+    "english": "I commuted to university by bus.",
+    "keyExpression": "commute to university",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 433,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "tuition fee",
+    "korean": "대학교 등록금이 비쌌습니다.",
+    "english": "The university tuition fee was expensive.",
+    "keyExpression": "tuition fee",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 434,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "get good grades",
+    "korean": "저는 기말고사에서 좋은 성적을 받았습니다.",
+    "english": "I got good grades on the final exam.",
+    "keyExpression": "get good grades",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 435,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "grades decrease",
+    "korean": "성적이 많이 떨어졌습니다.",
+    "english": "My grades decreased a lot.",
+    "keyExpression": "grades decreased",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 436,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "scholarship",
+    "korean": "그는 전액 장학금을 받았습니다.",
+    "english": "He received a full-time scholarship.",
+    "keyExpression": "scholarship",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 437,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "work part-time",
+    "korean": "저는 학기 동안 아르바이트를 했습니다.",
+    "english": "I worked part-time during the semesters.",
+    "keyExpression": "work part-time",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 438,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "join a club",
+    "korean": "저는 농구 동아리에 가입했습니다.",
+    "english": "I joined a basketball club.",
+    "keyExpression": "join a club",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 439,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "study abroad",
+    "korean": "그는 영국에서 유학을 했습니다.",
+    "english": "He studied abroad in England.",
+    "keyExpression": "study abroad",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 440,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "school",
+    "pattern": "register for A",
+    "korean": "저는 외국어 학원에 등록했습니다.",
+    "english": "I registered for a language school.",
+    "keyExpression": "register for",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 441,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "technology",
+    "pattern": "regardless of A",
+    "korean": "우리는 장소에 상관없이 온라인 쇼핑을 할 수 있습니다.",
+    "english": "We can shop online regardless of location.",
+    "keyExpression": "regardless of location",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 442,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "technology",
+    "pattern": "using our smartphones",
+    "korean": "저는 스마트폰을 사용해서 은행 업무를 봅니다",
+    "english": "I do banking using my smartphone.",
+    "keyExpression": "using my smartphone",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 443,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "technology",
+    "pattern": "pay with a smartphone",
+    "korean": "우리는 매장에서 스마트폰으로 결제할 수 있습니다.",
+    "english": "We can pay with a smartphone at stores.",
+    "keyExpression": "pay with a smartphone",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 444,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "technology",
+    "pattern": "in advance",
+    "korean": "저는 미리 좌석을 예약할 수 있었습니다.",
+    "english": "I was able to reserve a seat in advance.",
+    "keyExpression": "in advance",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 445,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "technology",
+    "pattern": "browse the internet",
+    "korean": "저는 쉬는 시간에 인터넷을 검색합니다.",
+    "english": "I browse the internet during my break.",
+    "keyExpression": "browse the internet",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 446,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "technology",
+    "pattern": "AI program",
+    "korean": "많은 학생들이 효율적으로 공부하기 위해 AI 프로그램을 사용합니다.",
+    "english": "Many students use AI programs to study efficiently.",
+    "keyExpression": "AI programs",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 447,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "technology",
+    "pattern": "live online class",
+    "korean": "학생들은 라이브 온라인 수업에서 질문할 수 있습니다.",
+    "english": "Students can ask questions in live online classes.",
+    "keyExpression": "live online classes",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 448,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "technology",
+    "pattern": "improve the quality of life",
+    "korean": "스마트 기기는 삶의 질을 높일 수 있습니다.",
+    "english": "Smart devices can improve the quality of life.",
+    "keyExpression": "improve the quality of life",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 449,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "technology",
+    "pattern": "use social media",
+    "korean": "많은 기업들이 제품을 홍보하기 위해 소셜 미디어를 사용합니다.",
+    "english": "Many businesses use social media to promote products.",
+    "keyExpression": "use social media",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 450,
+    "category": "topic",
+    "categoryName": "빈출주제",
+    "subcategory": "technology",
+    "pattern": "electric cars",
+    "korean": "요즘은 전기차 충전소를 찾기가 쉽습니다.",
+    "english": "It is easy to find charging stations for electric cars these days.",
+    "keyExpression": "electric cars",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 451,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "저는 책에 필기를 할 수 있습니다.",
+    "english": "I can take notes in a book.",
+    "keyExpression": "can take notes",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 452,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "저는 스마트폰으로 쇼핑을 할 수 있습니다.",
+    "english": "I can shop on my smartphone.",
+    "keyExpression": "can shop",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 453,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "저는 다양한 브랜드를 비교할 수 있습니다.",
+    "english": "I can compare various brands.",
+    "keyExpression": "can compare",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 454,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "저는 요리에 드는 시간을 절약할 수 있습니다.",
+    "english": "I can save time on cooking.",
+    "keyExpression": "can save time",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 455,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "저는 늦은 밤에도 운동할 수 있습니다.",
+    "english": "I can exercise late at night.",
+    "keyExpression": "can exercise",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 456,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "저는 일을 제시간에 끝낼 수 있습니다.",
+    "english": "I can finish work in time.",
+    "keyExpression": "can finish work",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 457,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "저는 무료로 책을 읽을 수 있습니다.",
+    "english": "I can read books for free.",
+    "keyExpression": "can read books",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 458,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "저는 취향에 맞는 책을 고를 수 있습니다.",
+    "english": "I can choose books that suit my taste.",
+    "keyExpression": "can choose books",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 459,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "우리는 시간과 장소에 상관없이 쇼핑할 수 있습니다.",
+    "english": "We can shop regardless of time and place.",
+    "keyExpression": "can shop",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 460,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "우리는 인턴십 동안 실용적인 기술을 배울 수 있습니다.",
+    "english": "We can learn practical skills during internships.",
+    "keyExpression": "can learn practical skills",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 461,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "우리는 음악을 더 편리하게 구매할 수 있습니다.",
+    "english": "We can buy music more conveniently.",
+    "keyExpression": "can buy music",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 462,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "우리는 운동 영상을 여러 번 볼 수 있습니다.",
+    "english": "We can watch exercise videos multiple times.",
+    "keyExpression": "can watch videos",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 463,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "우리는 이메일을 반복해서 확인할 수 있습니다.",
+    "english": "We can check emails repeatedly.",
+    "keyExpression": "can check emails",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 464,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "우리는 직장에서 실수를 줄일 수 있습니다.",
+    "english": "We can reduce mistakes at work.",
+    "keyExpression": "can reduce mistakes",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 465,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "우리는 다양한 업무를 경험할 수 있습니다.",
+    "english": "We can experience a variety of tasks.",
+    "keyExpression": "can experience a variety of tasks",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 466,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "우리는 업무에 빠르게 적응할 수 있습니다.",
+    "english": "We can adapt to our work quickly.",
+    "keyExpression": "can adapt to our work",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 467,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "우리는 다양한 현지 음식을 즐길 수 있습니다.",
+    "english": "We can enjoy various local foods.",
+    "keyExpression": "can enjoy various local foods",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 468,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "그들은 더 나은 수준의 교육을 받을 수 있습니다.",
+    "english": "They can have a higher quality of education.",
+    "keyExpression": "can have a higher quality of education",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 469,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "그들은 스마트폰으로 인해 산만해질 수 있습니다.",
+    "english": "They can be distracted by their smartphones.",
+    "keyExpression": "can be distracted",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 470,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "학생들은 학교에서 많은 친구를 사귈 수 있습니다.",
+    "english": "Students can make many friends at school.",
+    "keyExpression": "can make many friends",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 471,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "학생들은 공부에 쉽게 집중할 수 있습니다.",
+    "english": "Students can focus on their studies easily.",
+    "keyExpression": "can focus on their studies",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 472,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "can_v",
+    "pattern": "can + V",
+    "korean": "학생들은 다양한 사회성을 배울 수 있습니다.",
+    "english": "Students can learn various social skills.",
+    "keyExpression": "can learn various social skills",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 473,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "it_is_to",
+    "pattern": "It is + 형용사 + to 동사원형",
+    "korean": "출퇴근(또는 통학)하는 것이 불편했습니다.",
+    "english": "It was inconvenient to commute.",
+    "keyExpression": "inconvenient to commute",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 474,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "it_is_to",
+    "pattern": "It is + 형용사 + to 동사원형",
+    "korean": "대도시에서는 취업 정보를 얻기가 쉽습니다.",
+    "english": "It is easy to get job information in a big city.",
+    "keyExpression": "easy to get job information",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 475,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "it_is_to",
+    "pattern": "It is + 형용사 + to 동사원형",
+    "korean": "혼자 캠핑을 가는 것은 위험합니다.",
+    "english": "It is dangerous to go camping alone.",
+    "keyExpression": "dangerous to go camping alone",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 476,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "it_is_to",
+    "pattern": "It is + 형용사 + to 동사원형",
+    "korean": "호텔 레스토랑에서 식사하는 것은 비쌉니다.",
+    "english": "It is expensive to eat at a hotel restaurant.",
+    "keyExpression": "expensive to eat at",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 477,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "it_is_to",
+    "pattern": "It is + 형용사 + to 동사원형",
+    "korean": "한국에서 대중교통을 이용하는 것은 저렴합니다.",
+    "english": "It is cheap to use public transportation in Korea.",
+    "keyExpression": "cheap to use public transportation",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 478,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "it_is_to",
+    "pattern": "It is + 형용사 + to 동사원형",
+    "korean": "친구들과 함께 쇼핑하는 것이 더 즐겁습니다.",
+    "english": "It is more fun to shop with my friends.",
+    "keyExpression": "more fun to shop",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 479,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "it_is_to",
+    "pattern": "It is + 형용사 + to 동사원형",
+    "korean": "낯선 사람과 일하는 것은 불편합니다.",
+    "english": "It is uncomfortable to work with strangers.",
+    "keyExpression": "uncomfortable to work with",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 480,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "there_is",
+    "pattern": "There is (are) + 명사",
+    "korean": "백화점에는 많은 명품 브랜드가 있습니다.",
+    "english": "There are many luxury brands in department stores.",
+    "keyExpression": "many luxury brands",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 481,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "there_is",
+    "pattern": "There is (are) + 명사",
+    "korean": "헬스장에는 많은 종류의 운동 기구가 있습니다.",
+    "english": "There are many kinds of exercise equipment in fitness centers.",
+    "keyExpression": "many kinds of exercise equipment",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 482,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "there_is",
+    "pattern": "There is (are) + 명사",
+    "korean": "유튜브에는 운동 영상이 많습니다.",
+    "english": "There are many exercise videos on YouTube.",
+    "keyExpression": "many exercise videos",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 483,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "there_is",
+    "pattern": "There is (are) + 명사",
+    "korean": "거리에 차가 너무 많습니다.",
+    "english": "There are too many cars on the street.",
+    "keyExpression": "too many cars",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 484,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "there_is",
+    "pattern": "There is (are) + 명사",
+    "korean": "우리 도시에는 자전거를 타는 사람이 많지 않습니다.",
+    "english": "There are not many bicycle riders in my city.",
+    "keyExpression": "not many bicycle riders",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 485,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "obligation",
+    "pattern": "need to (should) + 동사원형",
+    "korean": "저는 계속 외국어를 공부해야 합니다.",
+    "english": "I need to keep studying foreign languages.",
+    "keyExpression": "need to keep studying",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 486,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "obligation",
+    "pattern": "need to (should) + 동사원형",
+    "korean": "저는 스마트폰을 덜 사용해야 합니다.",
+    "english": "I need to use my smartphone less.",
+    "keyExpression": "need to use my smartphone less",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 487,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "obligation",
+    "pattern": "need to (should) + 동사원형",
+    "korean": "저는 일찍 자야 합니다.",
+    "english": "I need to go to bed early.",
+    "keyExpression": "need to go to bed early",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 488,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "obligation",
+    "pattern": "need to (should) + 동사원형",
+    "korean": "우리는 종이와 플라스틱을 재활용해야 합니다.",
+    "english": "We should recycle paper and plastic.",
+    "keyExpression": "should recycle",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 489,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "obligation",
+    "pattern": "need to (should) + 동사원형",
+    "korean": "우리는 규칙적으로 운동해야 합니다.",
+    "english": "We should exercise regularly.",
+    "keyExpression": "should exercise regularly",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 490,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "obligation",
+    "pattern": "need to (should) + 동사원형",
+    "korean": "우리는 대중교통을 더 자주 이용해야 합니다.",
+    "english": "We should take public transportation more often.",
+    "keyExpression": "should take public transportation",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 491,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "dont_have_to",
+    "pattern": "don't have to + 동사원형",
+    "korean": "우리는 쇼핑을 하기 위해 돌아다니지 않아도 됩니다.",
+    "english": "We don't have to walk around to go shopping.",
+    "keyExpression": "don't have to walk around",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 492,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "dont_have_to",
+    "pattern": "don't have to + 동사원형",
+    "korean": "저는 층간 소음을 걱정할 필요가 없습니다.",
+    "english": "I don't have to worry about noise between floors.",
+    "keyExpression": "don't have to worry about",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 493,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "dont_have_to",
+    "pattern": "don't have to + 동사원형",
+    "korean": "저는 은행에 직접 가지 않아도 됩니다.",
+    "english": "I don't have to go to a bank in person.",
+    "keyExpression": "don't have to go in person",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 494,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "dont_have_to",
+    "pattern": "don't have to + 동사원형",
+    "korean": "저는 환승을 하지 않아도 됩니다.",
+    "english": "I don't have to transfer.",
+    "keyExpression": "don't have to transfer",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 495,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "dont_have_to",
+    "pattern": "don't have to + 동사원형",
+    "korean": "저는 영화를 선택하기 위해 다른 사람과 상의하지 않아도 됩니다.",
+    "english": "I don't have to discuss with anyone to select a movie.",
+    "keyExpression": "don't have to discuss",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 496,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "dont_have_to",
+    "pattern": "don't have to + 동사원형",
+    "korean": "저는 식사 후에 설거지를 할 필요가 없습니다.",
+    "english": "I don't have to do the dishes after having a meal.",
+    "keyExpression": "don't have to do the dishes",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 497,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "dont_have_to",
+    "pattern": "don't have to + 동사원형",
+    "korean": "저는 교통비에 많은 돈을 쓰지 않아도 됩니다.",
+    "english": "I don't have to spend a lot of money on transportation costs.",
+    "keyExpression": "don't have to spend a lot of money",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 498,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "dont_have_to",
+    "pattern": "don't have to + 동사원형",
+    "korean": "저는 비싼 운동 장비를 구매할 필요가 없습니다.",
+    "english": "I don't have to buy expensive exercise equipment.",
+    "keyExpression": "don't have to buy",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 499,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "interested_in",
+    "pattern": "be + interested in + 명사 / 동명사",
+    "korean": "저는 악기 연주에 관심이 있습니다.",
+    "english": "I'm interested in playing musical instruments.",
+    "keyExpression": "interested in playing",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 500,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "interested_in",
+    "pattern": "be + interested in + 명사 / 동명사",
+    "korean": "저는 인테리어 디자인에 관심이 많습니다.",
+    "english": "I'm very interested in interior design.",
+    "keyExpression": "very interested in",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 501,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "interested_in",
+    "pattern": "be + interested in + 명사 / 동명사",
+    "korean": "저는 캠핑에 관심이 없습니다.",
+    "english": "I'm not interested in camping.",
+    "keyExpression": "not interested in",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 502,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "interested_in",
+    "pattern": "be + interested in + 명사 / 동명사",
+    "korean": "저는 요리에 전혀 관심이 없습니다.",
+    "english": "I'm not interested in cooking at all.",
+    "keyExpression": "not interested in cooking at all",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 503,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "interested_in",
+    "pattern": "be + interested in + 명사 / 동명사",
+    "korean": "저는 역사에 관심이 없었습니다.",
+    "english": "I was not interested in history.",
+    "keyExpression": "was not interested in",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 504,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "interested_in",
+    "pattern": "be + interested in + 명사 / 동명사",
+    "korean": "저는 스타트업 회사에 별로 관심이 없었습니다.",
+    "english": "I was not very interested in startups.",
+    "keyExpression": "was not very interested in",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 505,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "like_ing",
+    "pattern": "like + 동명사",
+    "korean": "저는 책에 메모하는 것을 좋아합니다.",
+    "english": "I like taking notes in books.",
+    "keyExpression": "like taking notes",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 506,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "like_ing",
+    "pattern": "like + 동명사",
+    "korean": "저는 강을 따라 걷는 것을 좋아합니다.",
+    "english": "I like walking along the river.",
+    "keyExpression": "like walking",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 507,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "like_ing",
+    "pattern": "like + 동명사",
+    "korean": "저는 아침으로 빵을 먹는 것을 좋아합니다.",
+    "english": "I like having bread for breakfast.",
+    "keyExpression": "like having bread",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 508,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "like_ing",
+    "pattern": "like + 동명사",
+    "korean": "저는 혼자 여행하는 것을 좋아합니다.",
+    "english": "I like traveling alone.",
+    "keyExpression": "like traveling alone",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 509,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "like_ing",
+    "pattern": "like + 동명사",
+    "korean": "저는 집에서 요리하는 것을 좋아하지 않습니다.",
+    "english": "I don't like cooking at home.",
+    "keyExpression": "don't like cooking",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 510,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "like_ing",
+    "pattern": "like + 동명사",
+    "korean": "저는 매운 음식을 먹는 것을 좋아하지 않습니다.",
+    "english": "I don't like eating spicy food.",
+    "keyExpression": "don't like eating spicy food",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 511,
+    "category": "pattern",
+    "categoryName": "핵심구문",
+    "subcategory": "like_ing",
+    "pattern": "like + 동명사",
+    "korean": "저는 아침에 공부하는 것을 좋아하지 않습니다.",
+    "english": "I don't like studying in the morning.",
+    "keyExpression": "don't like studying",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 512,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "저는 강의를 듣는 동안 지루했습니다.",
+    "english": "I was bored during the lecture.",
+    "keyExpression": "bored",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 513,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그 강의는 지루했습니다.",
+    "english": "The lecture was boring.",
+    "keyExpression": "boring",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 514,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "책상과 의자가 편안했습니다.",
+    "english": "The desks and chairs were comfortable.",
+    "keyExpression": "comfortable",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 515,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "대도시에서 사업을 운영하는 것은 경쟁이 심합니다.",
+    "english": "It is competitive to run a business in a big city.",
+    "keyExpression": "competitive",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 516,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "우리는 새로운 규정에 혼란을 겪었습니다.",
+    "english": "We got confused by the new rules.",
+    "keyExpression": "confused",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 517,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "아파트에 사는 것은 편리합니다.",
+    "english": "It is convenient to live in an apartment.",
+    "keyExpression": "convenient",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 518,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "많은 회사들이 창의적인 직원을 선호합니다.",
+    "english": "Many companies prefer creative employees.",
+    "keyExpression": "creative",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 519,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그는 세부적인 계획을 세웠습니다.",
+    "english": "He made a detailed plan.",
+    "keyExpression": "detailed",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 520,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "저는 서비스에 실망했습니다.",
+    "english": "I was disappointed with the service.",
+    "keyExpression": "disappointed",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 521,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그 공연은 실망스러웠습니다.",
+    "english": "The show was disappointing.",
+    "keyExpression": "disappointing",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 522,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "저는 튼튼한 스마트폰이 필요합니다.",
+    "english": "I need a durable smartphone.",
+    "keyExpression": "durable",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 523,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "저는 훌륭한 고객 서비스를 받았습니다.",
+    "english": "I received excellent customer service.",
+    "keyExpression": "excellent",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 524,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그 영화는 흥미진진했습니다.",
+    "english": "The movie was exciting.",
+    "keyExpression": "exciting",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 525,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "우리는 경험 많은 직원을 채용했습니다.",
+    "english": "We hired an experienced employee.",
+    "keyExpression": "experienced",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 526,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그 강의는 즐거웠습니다.",
+    "english": "The lecture was enjoyable.",
+    "keyExpression": "enjoyable",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 527,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그 여행은 정말 재미있었습니다.",
+    "english": "The trip was really fun.",
+    "keyExpression": "fun",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 528,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그는 자주 재미있는 농담을 했습니다.",
+    "english": "He often told funny jokes.",
+    "keyExpression": "funny",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 529,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "우리는 건강한 식습관을 가질 수 있습니다.",
+    "english": "We can have healthy eating habits.",
+    "keyExpression": "healthy",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 530,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그의 조언은 매우 도움이 되었습니다.",
+    "english": "His advice was very helpful.",
+    "keyExpression": "helpful",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 531,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "제 고향에는 역사적인 장소가 많습니다.",
+    "english": "My hometown has many historical places.",
+    "keyExpression": "historical",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 532,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그녀는 공부에 관심이 없었습니다.",
+    "english": "She was not interested in studying.",
+    "keyExpression": "interested",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 533,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "저는 유명한 현지 식당들을 방문했습니다.",
+    "english": "I visited famous local restaurants.",
+    "keyExpression": "local",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 534,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "우리는 호화로운 분위기에서 식사할 수 있습니다.",
+    "english": "We can have a meal in a luxurious atmosphere.",
+    "keyExpression": "luxurious",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 535,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "이것은 현대적인 미술 갤러리의 사진 같습니다.",
+    "english": "I think this is a picture of a modern art gallery.",
+    "keyExpression": "modern",
+    "difficulty": 1,
+    "parts": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 536,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그러실 필요는 없습니다.",
+    "english": "That won't be necessary.",
+    "keyExpression": "necessary",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 537,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "저는 면접 전에 많이 긴장했습니다.",
+    "english": "I was very nervous before the interview.",
+    "keyExpression": "nervous",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 538,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "한 남자가 오래되어 보이는 건물에 들어가고 있습니다.",
+    "english": "A man is entering an old-looking building.",
+    "keyExpression": "old-looking",
+    "difficulty": 1,
+    "parts": [
+      2
+    ]
+  },
+  {
+    "id": 539,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그는 자기 일에 열정적이었습니다.",
+    "english": "He was passionate about his job.",
+    "keyExpression": "passionate",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 540,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그는 인기 있는 지역에 카페를 열었습니다.",
+    "english": "He opened a cafe in a popular area.",
+    "keyExpression": "popular",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 541,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "유튜브에는 전문적인 운동 영상이 많습니다.",
+    "english": "There are many professional exercise videos on YouTube.",
+    "keyExpression": "professional",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 542,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "우리는 여유로운 환경에서 일할 수 있습니다.",
+    "english": "We can work in a relaxed environment.",
+    "keyExpression": "relaxed",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 543,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그녀는 책임감이 매우 강했습니다.",
+    "english": "She was very responsible.",
+    "keyExpression": "responsible",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 544,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "저는 새 직장에 만족합니다.",
+    "english": "I'm satisfied with my new job.",
+    "keyExpression": "satisfied",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 545,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그는 많은 심각한 실수를 저질렀습니다.",
+    "english": "He made many serious mistakes.",
+    "keyExpression": "serious",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 546,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "제 기말고사 성적은 끔찍했습니다.",
+    "english": "My final exam grades were terrible.",
+    "keyExpression": "terrible",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 547,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "저는 학교에서 항상 피곤했습니다.",
+    "english": "I was always tired at school.",
+    "keyExpression": "tired",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 548,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "우리는 그들의 전통 문화를 경험할 수 있습니다.",
+    "english": "We can experience their traditional culture.",
+    "keyExpression": "traditional",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 549,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그 동물원에는 독특한 동물이 많습니다.",
+    "english": "The zoo has many unique animals.",
+    "keyExpression": "unique",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 550,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그 스마트폰에는 유용한 기능이 많습니다.",
+    "english": "The smartphone has many useful functions.",
+    "keyExpression": "useful",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 551,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "그녀는 직장에서 다양한 업무를 처리했습니다.",
+    "english": "She handled various tasks at work.",
+    "keyExpression": "various",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 552,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adjective",
+    "pattern": "형용사 활용",
+    "korean": "잘 알려진 브랜드는 편리한 고객 서비스를 제공합니다.",
+    "english": "Well-known brands provide convenient customer service.",
+    "keyExpression": "well-known",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 553,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "그는 자주 식사를 거르곤 했습니다.",
+    "english": "He often skipped meals.",
+    "keyExpression": "often",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 554,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "저는 가끔 밤을 새웠습니다.",
+    "english": "I sometimes stayed up all night.",
+    "keyExpression": "sometimes",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 555,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "저는 보통 머릿속을 정리하기 위해 산책을 합니다.",
+    "english": "I usually go for a walk to clear my head.",
+    "keyExpression": "usually",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 556,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "그녀는 사무실에서 거의 말을 하지 않았습니다.",
+    "english": "She rarely talked in the office.",
+    "keyExpression": "rarely",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 557,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "저는 실수로 노트북에 커피를 쏟았습니다.",
+    "english": "I accidentally spilled coffee on my laptop.",
+    "keyExpression": "accidentally",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 558,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "그는 자신의 의견을 분명하게 표현하지 않았습니다.",
+    "english": "He didn't express his opinion clearly.",
+    "keyExpression": "clearly",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 559,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "그들은 편안하게 쉴 수 있습니다.",
+    "english": "They can rest comfortably.",
+    "keyExpression": "comfortably",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 560,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "그녀는 자신 있게 프레젠테이션을 했습니다.",
+    "english": "She gave the presentation confidently.",
+    "keyExpression": "confidently",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 561,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "직원들은 더 창의적으로 일할 수 있습니다.",
+    "english": "Employees can work more creatively.",
+    "keyExpression": "creatively",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 562,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "저는 아침 일찍 일어나지 않아도 됩니다.",
+    "english": "I don't have to wake up early in the morning.",
+    "keyExpression": "early",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 563,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "저는 매일 늦게 잠자리에 들었습니다.",
+    "english": "I went to bed late every day.",
+    "keyExpression": "late",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 564,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "우리는 스마트폰으로 쉽게 음식을 주문할 수 있습니다.",
+    "english": "We can easily order food on a smartphone.",
+    "keyExpression": "easily",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 565,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "우리는 보너스를 받기 위해 열심히 일했습니다.",
+    "english": "We worked hard to get a bonus.",
+    "keyExpression": "hard",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 566,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "우리는 효과적으로 스트레스를 완화할 수 있습니다.",
+    "english": "We can effectively relieve stress.",
+    "keyExpression": "effectively",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 567,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "그는 결국 작년에 그 식당을 닫았습니다.",
+    "english": "He eventually closed the restaurant last year.",
+    "keyExpression": "eventually",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 568,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "그녀는 수업을 즐겁게 진행했습니다.",
+    "english": "She taught the class enjoyably.",
+    "keyExpression": "enjoyably",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 569,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "우리는 자유롭게 의견을 표현할 수 있었습니다.",
+    "english": "We were able to express our opinions freely.",
+    "keyExpression": "freely",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 570,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "제 성적이 점점 향상되었습니다.",
+    "english": "My grades improved gradually.",
+    "keyExpression": "gradually",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 571,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "그는 자신의 실수를 솔직하게 보고했습니다.",
+    "english": "He reported his mistake honestly.",
+    "keyExpression": "honestly",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 572,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "우리는 더 여유롭게 여행할 수 있습니다.",
+    "english": "We can travel more leisurely.",
+    "keyExpression": "leisurely",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 573,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "그는 불만사항을 능숙하게 처리했습니다.",
+    "english": "He handled complaints professionally.",
+    "keyExpression": "professionally",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 574,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "저는 최근에 새 집으로 이사했습니다.",
+    "english": "I recently moved to a new house.",
+    "keyExpression": "recently",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 575,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "저는 건강을 유지하기 위해 규칙적으로 운동합니다.",
+    "english": "I exercise regularly to stay healthy.",
+    "keyExpression": "regularly",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 576,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "우리는 영상을 반복해서 볼 수 있습니다.",
+    "english": "We can watch the videos repeatedly.",
+    "keyExpression": "repeatedly",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 577,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "그녀는 학생들의 고민을 진심으로 들어주었습니다.",
+    "english": "She sincerely listened to students' worries.",
+    "keyExpression": "sincerely",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 578,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "구체적으로 말하면, 우리는 출퇴근 시간을 절약할 수 있습니다.",
+    "english": "Specifically, we can save time on commuting.",
+    "keyExpression": "specifically",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": 579,
+    "category": "modifier",
+    "categoryName": "형용사/부사",
+    "subcategory": "adverb",
+    "pattern": "부사 활용",
+    "korean": "우리는 체계적으로 일하는 법을 배울 수 있습니다.",
+    "english": "We can learn to work systematically.",
+    "keyExpression": "systematically",
+    "difficulty": 1,
+    "parts": [
+      3,
+      5
+    ]
   }
 ]

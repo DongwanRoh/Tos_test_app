@@ -26,7 +26,7 @@
    - 스마트폰 화면비(390px~520px)에 최적화된 터치/스와이프 친화적 디자인.
    - 사파리/크롬에서 `홈 화면에 추가` 시 앱스토어 어플처럼 전체화면으로 구동.
 
-5. **첨부파일 기반 엄선된 144개 실전 문장 내장**
+5. **첨부 교재 기반 엄선된 579개 실전 문장 내장**
    - **기본동사구 (Core Verbs)**: `take`, `get`, `do`, `go`, `make`, `have` (파트 2~5 필수)
    - **빈출주제별 문장 (Topics)**: 직장(`work`), 학교(`school`), 기술(`technology`), 쇼핑(`shopping`), 주거(`housing`), 트렌드(`trend`), 여행(`travel`), 환경(`environment`)
    - **만능 핵심구문 (Key Patterns)**: `can + V`, `It is ~ to`, `There is/are`, `need to / should`, `don't have to`, `be interested in`, `like + ~ing`
